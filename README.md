@@ -1,3 +1,4 @@
+
 # ATL1
 ATL kepanjangan dari Aktive **Type Library**
 maka ATL1 adalah kode assambler yang berisi cara meloading atl.dll dan menjalankan
