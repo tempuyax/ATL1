@@ -80,7 +80,7 @@ Icall Macro pInterface:Req, Method:Req, Args:VarArg
     push eax
     mov eax,[eax]
     Call [Eax].Method
-    ;call    dword ptr[eax+Method]
+    ; call    dword ptr[eax+Method]
 ENDM
 
 ;IUnknown Methods
