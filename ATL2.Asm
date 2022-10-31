@@ -106,11 +106,7 @@ szCLSID_Calendar   db   "{8E27C92B-1264-101C-8A2F-040224009C02}",0 ; Calendar Cl
 szCLSID_Sound      db   "{22D6F312-B0F6-11D0-94AB-0080C74C7E95}",0 ; Sound ClassID
 szCLSID_Graphics   db   "{369303C2-D7AC-11D0-89D5-00A0C90833E6}",0 ; Graphics ClassID
 
-<<<<<<< HEAD
 szFileName         db  "biohome2.swf",0 ; File target
-=======
-szFileName	   db  "biohome2.swf",0 ; File target
->>>>>>> 2c5269a679a7ea5699caaf2a97298bf83268942c
 szBksl             db 	"\",0
 
 IID_IFlash         sIID_IFlash ; from OFlash.inc
