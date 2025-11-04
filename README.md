@@ -1,7 +1,7 @@
 
 # ATL1
 ATL kepanjangan dari **Aktive Type Library**
-maka ATL1 adalah kode assambler yang 
+, sebuah teknologi dari MICROSOFT, maka ATL1 adalah kode assambler yang 
 berisi cara meloading atl.dll dan 
 menggelar beberapa fungsinya untuk 
 menjalankan system windows teknologi aktif X atau *Componen Object Model* 
