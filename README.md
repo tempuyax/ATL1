@@ -1,11 +1,11 @@
 
 # ATL1
-ATL kepanjangan dari **Aktive Type Library**
+<p align=justify>ATL kepanjangan dari **Aktive Type Library**
 , sebuah teknologi dari MICROSOFT, maka ATL1 adalah kode assambler yang 
 berisi cara meloading atl.dll dan 
 menggelar beberapa fungsinya untuk 
 menjalankan system windows teknologi aktif X atau *Componen Object Model* 
-seperti *ShockWavFlash*
+seperti *ShockWavFlash* </p>
 
 # masm32
 Adalah compiler kode assambler gratis yg
