@@ -4,7 +4,7 @@
 , sebuah teknologi dari <i>MICROSOFT</i>, maka ATL1 adalah kode assambler yang 
 berisi cara meloading atl.dll dan 
 menggelar beberapa fungsinya untuk 
-menjalankan system windows teknologi aktif X atau *Componen Object Model* 
+menjalankan system windows teknologi aktif X atau <b>*Componen Object Model*</b> 
 seperti <b>ShockWavFlash</b> </p>
 
 # masm32
